@@ -1,0 +1,235 @@
+{
+   "url":"https://www.linkedin.com/in/williamhgates",
+   "name_similarity_score":1.0,
+   "company_similarity_score":1.0,
+   "title_similarity_score":1.0,
+   "location_similarity_score":1.0,
+   "profile":{
+      "public_identifier":"williamhgates",
+      "profile_pic_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/person/williamhgates/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241221%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241221T070101Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=53204d0e35a923d36b8199ffd499cc6799105a920dcad60a5394623d4a237924",
+      "background_cover_image_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/person/williamhgates/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241221%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241221T070101Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cba3736a8db1b1aab0eed13f9c1d64656224b6ffae47d9beb6384c1ab9508ad0",
+      "first_name":"Bill",
+      "last_name":"Gates",
+      "full_name":"Bill Gates",
+      "follower_count":36758294,
+      "occupation":"Co-chair at Bill & Melinda Gates Foundation",
+      "headline":"Chair, Gates Foundation and Founder, Breakthrough Energy",
+      "summary":"Chair of the Bill & Melinda Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+      "country":"US",
+      "country_full_name":"United States",
+      "city":"Seattle",
+      "state":"Washington",
+      "experiences":[
+         {
+            "starts_at":{
+               "day":1,
+               "month":1,
+               "year":2000
+            },
+            "ends_at":"None",
+            "company":"Bill & Melinda Gates Foundation",
+            "company_linkedin_profile_url":"https://www.linkedin.com/company/bill-&-melinda-gates-foundation",
+            "company_facebook_profile_url":"None",
+            "title":"Co-chair",
+            "description":"None",
+            "location":"None",
+            "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/bill-%26-melinda-gates-foundation/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241221%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241221T070101Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=277982fd749bd6e84a9e6de4ec2d7d3e28174f082c269973a002396ec2c97d07"
+         },
+         {
+            "starts_at":{
+               "day":1,
+               "month":1,
+               "year":2015
+            },
+            "ends_at":"None",
+            "company":"Breakthrough Energy ",
+            "company_linkedin_profile_url":"https://www.linkedin.com/company/breakthrough-energy",
+            "company_facebook_profile_url":"None",
+            "title":"Founder",
+            "description":"None",
+            "location":"None",
+            "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/breakthrough-energy/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241221%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241221T070101Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=5d51dbb78ff60c4d04eae796e866a336c1cff0d0ae9f219ba467f6916588cb48"
+         },
+         {
+            "starts_at":{
+               "day":1,
+               "month":1,
+               "year":1975
+            },
+            "ends_at":"None",
+            "company":"Microsoft",
+            "company_linkedin_profile_url":"https://www.linkedin.com/company/microsoft",
+            "company_facebook_profile_url":"None",
+            "title":"Co-founder",
+            "description":"None",
+            "location":"None",
+            "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/microsoft/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241221%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241221T070101Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=23de9087aed7e05d734540bf6e7ffb6e20f06b8b139870f2132a181cc64cb26a"
+         }
+      ],
+      "education":[
+         {
+            "starts_at":{
+               "day":1,
+               "month":1,
+               "year":1973
+            },
+            "ends_at":{
+               "day":31,
+               "month":12,
+               "year":1975
+            },
+            "field_of_study":"None",
+            "degree_name":"None",
+            "school":"Harvard University",
+            "school_linkedin_profile_url":"https://www.linkedin.com/company/1646/",
+            "school_facebook_profile_url":"None",
+            "description":"None",
+            "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/harvard-university/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241221%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241221T070101Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=c90e1919014c15095b18f12a69f1a6daa6a2ebf3586f9328bebe0da33956d02e",
+            "grade":"None",
+            "activities_and_societies":"None"
+         },
+         {
+            "starts_at":"None",
+            "ends_at":"None",
+            "field_of_study":"None",
+            "degree_name":"None",
+            "school":"Lakeside School",
+            "school_linkedin_profile_url":"https://www.linkedin.com/company/30288/",
+            "school_facebook_profile_url":"None",
+            "description":"None",
+            "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/lakeside-school/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241221%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241221T070101Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=a8f88496613c41e8f32978a313d04111ee244d66c5a695fc7619bb7e0445512d",
+            "grade":"None",
+            "activities_and_societies":"None"
+         }
+      ],
+      "languages":[
+
+      ],
+      "languages_and_proficiencies":[
+
+      ],
+      "accomplishment_organisations":[
+
+      ],
+      "accomplishment_publications":[
+
+      ],
+      "accomplishment_honors_awards":[
+
+      ],
+      "accomplishment_patents":[
+
+      ],
+      "accomplishment_courses":[
+
+      ],
+      "accomplishment_projects":[
+
+      ],
+      "accomplishment_test_scores":[
+
+      ],
+      "volunteer_work":[
+
+      ],
+      "certifications":[
+
+      ],
+      "connections":8,
+      "people_also_viewed":[
+         {
+            "link":"https://www.linkedin.com/in/jenhsunhuang?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABMznFkB_XPgkYHnUl33kIHTWt1DtMAV6Pg",
+            "name":"Jensen Huang",
+            "summary":"Founder and CEO, NVIDIA",
+            "location":"None"
+         },
+         {
+            "link":"https://www.linkedin.com/in/nitin-gadkari-5b7b2b227?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADjxI5sB8zh1KYWtStYxnRHjvVa6ckeE8Eo",
+            "name":"Nitin Gadkari",
+            "summary":"Minister of Road Transport & Highways, Government of India at Government of India",
+            "location":"None"
+         },
+         {
+            "link":"https://www.linkedin.com/in/rbranson?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAwp1RMBxG26M3Qkhm4klqLNr1bIplo6GhY",
+            "name":"Richard Branson",
+            "summary":"Founder at Virgin Group",
+            "location":"None"
+         },
+         {
+            "link":"https://www.linkedin.com/in/andy-jassy-8b1615?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAAXP8UB4_GzJNUYcEDdAM6IBQNKZYe-WOU",
+            "name":"Andy Jassy",
+            "summary":"President and CEO at Amazon",
+            "location":"None"
+         },
+         {
+            "link":"https://www.linkedin.com/in/laurencefink?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABAkIqcBTdNVYPXdjiIPOUV8rT5j4TTieko",
+            "name":"Larry Fink",
+            "summary":"Chairman and CEO at BlackRock",
+            "location":"None"
+         },
+         {
+            "link":"https://www.linkedin.com/in/stephencurry30?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAw4D5sB4ZMefUY22SQECAv5kgQQKM4Cwh4",
+            "name":"Stephen Curry",
+            "summary":"NBA Athlete | Producer, Investor, Entrepreneur, Philanthropist, Gold Medalist",
+            "location":"None"
+         },
+         {
+            "link":"https://www.linkedin.com/in/sundarpichai?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAE6FVtYBAW4bP82g1IhIHxzu_1J010WU3CQ",
+            "name":"Sundar Pichai",
+            "summary":"CEO at Google",
+            "location":"None"
+         },
+         {
+            "link":"https://www.linkedin.com/in/justintrudeau?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA2CDF8BlyDd8jHcvIujtyUS6YDtx6EOzJ4",
+            "name":"Justin Trudeau",
+            "summary":"Prime Minister of Canada | Premier ministre du Canada",
+            "location":"None"
+         },
+         {
+            "link":"https://www.linkedin.com/in/mr-beast?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADnl1jgBdlHVvRibBu9Fm0M77z4oYsyVQ0k",
+            "name":"Jimmy Donaldson",
+            "summary":"On a mission to be the biggest Youtuber of all time.",
+            "location":"None"
+         },
+         {
+            "link":"https://www.linkedin.com/in/rishi-sunak?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC_m1aoBCuAl3tCOFJZho4TVOR6w9XqnbH4",
+            "name":"Rishi Sunak",
+            "summary":"MP for Richmond and Northallerton. Conservatives leader. Former Prime Minister of the United Kingdom",
+            "location":"None"
+         }
+      ],
+      "recommendations":[
+
+      ],
+      "activities":[
+
+      ],
+      "similarly_named_profiles":[
+
+      ],
+      "articles":[
+
+      ],
+      "groups":[
+
+      ],
+      "skills":[
+
+      ],
+      "inferred_salary":"None",
+      "gender":"None",
+      "birth_date":"None",
+      "industry":"None",
+      "extra":"None",
+      "interests":[
+
+      ],
+      "personal_emails":[
+
+      ],
+      "personal_numbers":[
+
+      ]
+   },
+   "last_updated":"2024-12-21T06:50:29Z"
+}
